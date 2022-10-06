@@ -1,4 +1,4 @@
-package Day2;
+package PracticalWork1;
 import java.util.Scanner;
 
 public class Task1_1 {
