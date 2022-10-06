@@ -1,4 +1,4 @@
-package Day3;
+package PracticalWork2;
 
 import static java.lang.Math.pow;
 
